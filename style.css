@@ -67,3 +67,206 @@
     width: 60px;
     height: 20px;
 }
+
+/* risposte */
+
+/* esercizio 1 */
+/* .ex-1-square:hover {
+    background-color: red;
+    transition: 5s;
+} */
+
+
+/* esercizio 2 */
+/* .ex-2-square:active{ */
+    /* width: 200px; */
+    /* transition: 5s; */
+/* } */
+
+
+/* esercizio 3 */
+/* .ex-3-square :hover{ */
+    /* border-radius: 50%; */
+    /* transition: 2s; */
+/* } */
+
+
+/* esercizio 4 */
+/* .ex-4-square{ */
+    /* animation: ex-4-square 5s infinite; */
+/* } */
+/* @keyframes ex-4-square{  */
+  /* 0% { */
+    /* opacity: 1; */
+  /* } */
+/*  */
+  /* 100% { */
+    /* opacity: 0; */
+  /* } */
+/* } */
+
+
+/* esercizio 5 */
+/* .ex-5-square:hover{ */
+     /* width: 80px; */
+     /* height: 80px; */
+     /* transition: 2s; */
+/* } */
+/* .ex-5-square:active{ */
+    /* width: 40px; */
+    /* height: 40px; */
+    /* transition: 2s; */
+/* } */
+
+
+/* esercizio 6 */
+/* .ex-6-img:hover{ */
+    /* filter: grayscale(100%); */
+/* } */
+
+
+/* esercizio 7 */
+/* .ex-7-img:hover{ */
+    /* filter: grayscale(100%); */
+    /* filter: blur(5px); */
+    /* transition: 5s; */
+/* } */
+
+
+/* esercizio 8 */
+/* .ex-8-img{ */
+    /* filter: contrast(50%); */
+    /* filter: sepia(50%); */
+    /* border-radius: 20px; */
+    /* transition: 3s; */
+/* } */
+
+/* esercizio 9*/
+/* .ex-9-img{ */
+    /* filter: brightness(80%); */
+    /* filter: drop-shadow(30px 10px 4px grey); */
+/* } */
+
+
+/* esercizio 10 */
+/* .ex-10-icon{ */
+    /* animation: ex-10-icon 3s linear infinite; */
+/* } */
+/* @keyframes ex-10-icon { */
+    /* 0% { transform: rotate(0deg); } */
+    /* 100% { transform: rotate(360deg); } */
+/* } */
+
+
+/* esercizio 11 */
+/* .ex-11-icon:hover{ */
+    /* animation-name: ex-11-icon; */
+    /* animation-timing-function: linear ; */
+    /* animation-duration: 1s; */
+/* } */
+/* @keyframes ex-11-icon { */
+    /* 0% { transform: rotate(0deg); } */
+    /* 70% { transform: rotate(270deg); } */
+    /* 100% { transform: rotate(0deg); } */
+/* } */
+
+
+
+
+
+/* esercizio 12 */
+
+/* .ex-12-button:hover .ex-12-top-white { */
+    /* animation: moveTopWhite 2s linear; */
+/* } */
+/* @keyframes moveTopWhite { */
+    /* 0% { */
+        /* left: 10%; */
+    /* } */
+    /* 50% { */
+        /* left: calc(100% - 60px); */
+    /* } */
+    /* 100% { */
+        /* left: 10%; */
+    /* } */
+/* } */
+/* .ex-12-button:hover .ex-12-bottom-white { */
+    /* animation: moveBottomWhite 2s linear; */
+/* } */
+/* @keyframes moveBottomWhite { */
+    /* 0% { */
+        /* right: 20%; */
+    /* } */
+    /* 50% { */
+        /* right: calc(100% - 60px); */
+    /* } */
+    /* 100% { */
+        /* right: 20%; */
+    /* } */
+/* } */
+/*  */
+
+
+
+
+
+/* esercizio 13 */
+
+/* .ex-13-button:hover .ex-13-top-white { */
+    /* animation: moveTopWhiteCompletely 2s linear; */
+/* } */
+/* @keyframes moveTopWhiteCompletely { */
+    /* 0% { */
+        /* left: 10%; */
+        /* top: -10px; */
+    /* } */
+    /* 30% { */
+        /* left: calc(100% - 30px); */
+        /* top: -10px; */
+    /* } */
+    /* 45% { */
+        /* left: calc(100% - 30px); */
+        /* top: 100%; */
+    /* } */
+    /* 75% { */
+        /* left: 0; */
+        /* top: 100%; */
+    /* } */
+    /* 90% { */
+        /* left: -15px; */
+        /* top: -10px; */
+    /* } */
+    /* 100% { */
+        /* left: 10%; */
+        /* top: -10px; */
+    /* } */
+/* } */
+/* .ex-13-button:hover .ex-13-bottom-white { */
+    /* animation: moveBottomWhiteCompletely 2s linear; */
+/* } */
+/* @keyframes moveBottomWhiteCompletely{ */
+    /* 0% { */
+        /* bottom: -10px; */
+        /* right: 20%; */
+    /* } */
+    /* 30% { */
+        /* right: calc(100% - 30px); */
+        /* bottom: -10px; */
+    /* } */
+    /* 45% { */
+        /* right: calc(100% - 30px); */
+        /* bottom: 100%; */
+    /* } */
+    /* 75% { */
+        /* right: 0; */
+        /* bottom: 100%; */
+    /* } */
+    /* 90% { */
+        /* right: -15px; */
+        /* bottom: -10px; */
+    /* } */
+    /* 100% { */
+        /* bottom: -10px; */
+        /* right: 20%; */
+    /* } */
+/* } */
